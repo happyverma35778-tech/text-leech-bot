@@ -75,9 +75,9 @@ sudo docker run -it --rm text-leech-bot-by-ashu
 
 ❏ `BOT_TOKEN`  - Get Bot Token From [@BotFather](https://t.me/BotFather)
 
-❏ `API_ID` - From [my.telegram.org ](https://my.telegram.org/)
+❏ `API_ID` - From [29767376](https://my.telegram.org/)
 
-❏ `API_HASH` - From [my.telegram.org](https://my.telegram.org/)
+❏ `API_HASH` - From [4cc06fa4a23f12f24571f984498e5425](https://my.telegram.org/)
 
 ❏ `PORT` - Any Port Like 6969 | Dont Use 8080 in [app.koyeb.com](https://app.koyeb.com/) & [colab.research.google.com](https://colab.research.google.com/)
 
